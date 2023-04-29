@@ -1,3 +1,2 @@
 # wordpressCostumeTheme
-# wordpressCostumeTheme
-# wordpressCostumTheme
+
